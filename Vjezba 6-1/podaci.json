@@ -1,0 +1,29 @@
+{
+  "osoba": {
+    "ime": "Dario",
+    "prezime": "Lulek"
+  },
+  "automobili": [
+    {
+      "marka": "BMW",
+      "model": "320d",
+      "godina": 2020,
+      "registracija": "ZG-123-AA",
+      "cijena": 25000
+    },
+    {
+      "marka": "Audi",
+      "model": "A4",
+      "godina": 2019,
+      "registracija": "ZG-456-BB",
+      "cijena": 18000
+    },
+    {
+      "marka": "Mercedes",
+      "model": "C220",
+      "godina": 2021,
+      "registracija": "ZG-789-CC",
+      "cijena": 32000
+    }
+  ]
+}
