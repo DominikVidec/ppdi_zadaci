@@ -1,0 +1,32 @@
+<student>
+           <ime>Milan</ime>
+           <prezime>Milanić</prezime>
+           <jmbg>0246892385</jmbg>
+           <datumRodjenja>2002-02-11</datumRodjenja>
+           <godinaStudija>2</godinaStudija>
+
+    <kontakt>
+           <email>milan.milanic02@gmail.com</email>
+           <telefon>0972345576</telefon>
+    </kontakt>
+
+  <kolegiji>
+    <kolegij1>
+            <naziv>Programiranje</naziv>
+            <profesor>Ivan Marulić</profesor>
+            <ects>6</ects>
+    </kolegij1>
+
+     <kolegij2>
+           <naziv>Matematika</naziv>
+           <profesor>Tomislav Vranić</profesor>
+           <ects>5</ects>
+     </kolegij2>
+
+    <kolegij3>
+           <naziv>Grafički dizajn</naziv>
+           <profesor>Borna Podić</profesor>
+           <ects>4</ects>
+    </kolegij3>
+  </kolegiji>
+</student>
