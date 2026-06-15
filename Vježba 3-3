@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Osoba spol="M">
+
+    <Ime>Marko</Ime>
+    <Prezime>Marković</Prezime>
+
+    <MjestoStanovanja>
+        <Adresa>Ilica 20</Adresa>
+        <Grad>Zagreb</Grad>
+        <Drzava>Hrvatska</Drzava>
+    </MjestoStanovanja>
+
+    <Kontakt>
+        <Mobitel>0911234567</Mobitel>
+        <KucniTelefon>012345678</KucniTelefon>
+        <Email>marko.markovic@email.com</Email>
+    </Kontakt>
+
+</Osoba>
