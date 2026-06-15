@@ -1,0 +1,14 @@
+<student>
+          <ime>Damir</ime>
+           <prezime>Damirić</prezime>
+           <jmbg>0246898394</jmbg>
+           <datumRodjenja>2003-07-19</datumRodjenja>
+           <godinaStudija>2</godinaStudija>
+           <studijskiProgram>Informatika</studijskiProgram>
+
+   <adresa>
+           <ulica>Sortina 8</ulica>
+           <grad>Zagreb</grad>
+           <postanskiBroj>10000</postanskiBroj>
+   </adresa>
+</student>
