@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Narudzba>
+
+    <Ime>Marko</Ime>
+    <Prezime>Marković</Prezime>
+
+    <MjestoStanovanja>
+        <Adresa>Ilica 20</Adresa>
+        <Grad>Zagreb</Grad>
+        <Drzava>Hrvatska</Drzava>
+    </MjestoStanovanja>
+
+    <NaruceniArtikl>
+        <Naziv>Monitor</Naziv>
+        <Kolicina>2</Kolicina>
+        <Cijena>199.99</Cijena>
+    </NaruceniArtikl>
+
+</Narudzba>
