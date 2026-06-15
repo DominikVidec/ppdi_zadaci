@@ -1,0 +1,41 @@
+{
+  "osoba": {
+    "ime": "Dario",
+    "prezime": "Lulek"
+  },
+  "automobili": [
+    {
+      "marka": "BMW",
+      "model": "320d",
+      "godina": 2020,
+      "boja": "Crna",
+      "registriran": true,
+      "cijena": 25000,
+      "kilometri": 85000,
+      "gorivo": "Dizel",
+      "vlasnik_od": 2021
+    },
+    {
+      "marka": "Audi",
+      "model": "A4",
+      "godina": 2019,
+      "boja": "Siva",
+      "registriran": true,
+      "cijena": 18000,
+      "kilometri": 120000,
+      "gorivo": "Dizel",
+      "vlasnik_od": 2022
+    },
+    {
+      "marka": "Mercedes",
+      "model": "C220",
+      "godina": 2021,
+      "boja": "Bijela",
+      "registriran": false,
+      "cijena": 32000,
+      "kilometri": 45000,
+      "gorivo": "Dizel",
+      "vlasnik_od": 2023
+    }
+  ]
+}
